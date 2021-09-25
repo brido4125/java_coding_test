@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+ * First : 2021/9/24
+ * */
 public class ReverseWord {
     public static ArrayList<String> solution(int n,String[] wordArray) {
         /*
